@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="Preferences">
+
+    <PreferenceCategory android:title="Color">
+
+        <ListPreference
+            android:defaultValue="white"
+            android:entries="@array/colorList"
+            android:entryValues="@array/colorListValue"
+            android:key="@string/colorPref"
+            android:summary="@string/colorSummary"
+            android:title="@string/colorTitle" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Import books">
+
+        <CheckBoxPreference
+            android:key="top10"
+            android:summary="@string/importSummary"
+            android:title="@string/importTitle" />
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

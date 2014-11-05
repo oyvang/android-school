@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Oving 2</string>
+    <string name="title_activity_random">Go To Random</string>
+    <string name="title_activity_calculator">Go To Calculator</string>
+    <string name="btnTall1">Tall 1</string>
+    <string name="btnTall2">Tall 2</string>
+    <string name="btnSvar">Svar</string>
+    <string name="regneart">Velg regneart</string>
+
+</resources>

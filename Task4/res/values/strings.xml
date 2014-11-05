@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gallery</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+
+    <string name="luffy_name">Luffy</string>
+    <string name="zoro_name">Zoro</string>
+    <string name="sanji_name">Sanji</string>
+    <string name="nami_name">Nami</string>
+    <string name="brook_name">Brook</string>
+    <string name="usopp_name">Usopp</string>
+    <string name="robin_name">Robin</string>
+    <string name="chopper_name">Chopper</string>
+    <string name="franky_name">Franky</string>
+
+    <string name="luffy_text">"Straw Hat Luffy" Monky D. Luffy - The captain of Straw Hat Pirates and the next pirate king</string>
+    <string name="zoro_text">"Pirate Hunter Zoro" Zoro - One of the best swordsmans</string>
+    <string name="sanji_text">"Black Leg" Sanji - The cook</string>
+    <string name="nami_text">"Cat Burglar" Nami - The navigator of Straw Hat Pirates</string>
+    <string name="brook_text">Brook - the musician of Starw Hat Pirates</string>
+    <string name="usopp_text">"Lair" Usopp - Former captain of Usopp Pirates, now a sniper of Straw Hat Pirates</string>
+    <string name="robin_text">Nico Robin - Archaeologist of the Straw Hat Pirates</string>
+    <string name="chopper_text">"Chopper" Tony Tony Chopper -  Doctor of the Straw Hat Pirates</string>
+    <string name="franky_text">"Pervert" Franky - Shipwright for the Straw Hat Pirates</string>
+
+</resources>

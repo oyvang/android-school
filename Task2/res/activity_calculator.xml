@@ -1,0 +1,74 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnTall1"
+        android:id="@+id/btnTall1"
+        android:layout_gravity="left|center_vertical"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="12.5dp"
+        android:onClick="onClickTall1" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnTall2"
+        android:id="@+id/btnTall2"
+        android:layout_gravity="center"
+        android:layout_marginLeft="12.5dp"
+        android:layout_marginRight="12.5dp"
+        android:onClick="onClickTall2" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnSvar"
+        android:id="@+id/btnSvar"
+        android:layout_gravity="right|center_vertical"
+        android:layout_marginLeft="12.5dp"
+        android:layout_marginRight="15dp"
+        android:onClick="onClickSvar" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/txtTall1"
+        android:layout_gravity="left|top"
+        android:layout_marginTop="150dp"
+        android:minWidth="100dp"
+        android:maxWidth="150dp"
+        android:inputType="numberDecimal"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/txtTall2"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_marginTop="150dp"
+        android:maxWidth="150dp"
+        android:minWidth="100dp"
+        android:inputType="numberDecimal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/txtSvar"
+        android:layout_gravity="right|top"
+        android:layout_marginTop="158dp"
+        android:minWidth="100dp"
+        android:maxWidth="150dp" />
+
+</FrameLayout>

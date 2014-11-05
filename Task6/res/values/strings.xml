@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HTTP Game</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="gamle_title">Tallspill!</string>
+    <string name="name_label">Oppgi navn:</string>
+    <string name="card_number_label">Skriv inn kortnummer</string>
+    <string name="button_send_title">Send</string>
+    <string name="button_restart_title">Start på nytt</string>
+    <string name="game_rules">Oppgi et tall mellom 1 og 10!</string>
+
+
+</resources>

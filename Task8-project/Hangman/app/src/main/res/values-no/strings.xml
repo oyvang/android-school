@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hangman</string>
+    <string name="game_welcome">Velkommen til Hangman!\nEt artig gjett på ord spill</string>
+    <string name="click_to_play">Click to play</string>
+    <string name="klikk_for_spill">Klikk for spill</string>
+    <string name="play">Start spill!</string>
+    <string name="main_menu">Spill meny</string>
+    <string name="game_rules"><b>Spillets poeng:</b>\n\tGjett riktig ord ved å gjette på\n\tbokstaver\n<b>Game
+        Over:</b>\n\tGjette feil bokstav 9 ganger\n<b>Tips:</b>\n\tSamme ord kan bare oppstå en\n\tgang per spill.\n\n\n</string>
+    <string name="game_info_button">Spilltips</string>
+    <string name="game_over">Game Over</string>
+    <string name="game_congratulation">Gratulerer!  \\o/</string>
+    <string name="game_end_message">Klikk på "Fortsett" for å få et nytt ord</string>
+    <string name="continue_button">Fortsett</string>
+    <string name="win_loss">Vinn/Tap</string>
+    <string name="word">Ord</string>
+    <string name="end_of_game"><b>Spillets ende</b>\nStatus:\n</string>
+    <string name="new_game">Nytt spill</string>
+
+</resources>

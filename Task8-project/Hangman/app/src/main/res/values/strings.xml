@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hangman</string>
+    <string name="game_welcome">"Welcome to Hangman!\nA fun word guessing game!</string>
+    <string name="click_to_play">Click to play</string>
+    <string name="klikk_for_spill">Klikk for spill</string>
+    <string name="play">Start game!</string>
+    <string name="main_menu">Game menu</string>
+    <string name="game_rules"><b>The point of the game:</b>\n\tGuess the right word with help of\n\tguessing
+        one and one letter.\n<b>Game Over:</b>\n\tGuessing wrong 9 times!\n<b>Pro tip:</b>\n\tThe same
+        word can not occur\n\tmore than one time in each\n\tgame.\n\n\n</string>
+    <string name="game_info_button">Game Tip</string>
+    <string name="game_over">Game Over</string>
+    <string name="game_congratulation">Congratulation!  \\o/</string>
+    <string name="game_end_message">Click on "Continue" for new word</string>
+    <string name="continue_button">Continue</string>
+    <string name="win_loss">Win/Loss</string>
+    <string name="word">Word</string>
+    <string name="end_of_game"><b>End of game</b>\nStatus:\n</string>
+    <string name="new_game">New game</string>
+
+
+</resources>

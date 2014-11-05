@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.oyvang.hangman.HangmanActivity">
+    <item
+        android:id="@+id/main_menu"
+        android:showAsAction="always"
+        android:title="@string/main_menu" />
+
+    <item
+        android:id="@+id/info_button"
+        android:showAsAction="always"
+        android:title="@string/game_info_button" />
+</menu>

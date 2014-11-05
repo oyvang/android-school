@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colorList">
+        <item name="white">White</item>
+        <item name="green">Green</item>
+        <item name="red">Red</item>
+    </string-array>
+    <string-array name="colorListValue">
+        <item name="white">FFFFFF</item>
+        <item name="green">2EFE2E</item>
+        <item name="red">DF0101</item>
+    </string-array>
+</resources>

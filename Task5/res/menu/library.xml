@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/showTitle"
+        android:showAsAction="always"
+        android:title="@string/showTitles"></item>
+    <item
+        android:id="@+id/showAuthors"
+        android:showAsAction="always"
+        android:title="@string/showAuthors"></item>
+    <item
+        android:id="@+id/settingsButton"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:showAsAction="always"></item>
+</menu>

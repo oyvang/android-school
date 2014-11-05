@@ -1,0 +1,25 @@
+<resources>
+
+    <string name="app_name">Library</string>
+    <string name="title_activity_book">BookActivity</string>
+    <string name="select_color">Select list background color</string>
+    <string name="select_color_default">FFFFFF</string>
+    <string name="menu_load_books">Load books from file</string>
+    <string name="color">Color</string>
+    <string name="showAuthors">Show authors</string>
+    <string name="showTitles">Show book titles</string>
+    <string name="white">White</string>
+    <string name="green">Green</string>
+    <string name="red">Red </string>
+    <string name="importText">Import </string>
+    <string name="importTestView">Click on import to import default book list</string>
+    <string name="colorPref">colorPref</string>
+    <string name="importPref">importPref</string>
+    <string name="settings">Settings</string>
+    <string name="importTitle">Top 10</string>
+    <string name="colorTitle">Color</string>
+    <string name="colorSummary">Change background color</string>
+    <string name="importSummary">Import books from file</string>
+
+
+</resources>

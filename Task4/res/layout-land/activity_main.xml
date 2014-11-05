@@ -1,0 +1,38 @@
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:weightSum="1">
+
+    <fragment
+        android:layout_width="122dp"
+        android:layout_height="match_parent"
+        android:name="org.oyvang.gallery.fragment_files"
+        android:id="@+id/fragment_list_file"
+        android:layout_gravity="center_vertical" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1">
+
+        <fragment
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            class="org.oyvang.gallery.fragment_gallery"
+            android:id="@+id/fragment_gallery_view"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.94" />
+
+        <fragment
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            class="org.oyvang.gallery.fragment_text"
+            android:id="@+id/fragment_text_view"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.07" />
+    </LinearLayout>
+
+</LinearLayout>
